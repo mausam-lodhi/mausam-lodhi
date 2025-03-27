@@ -89,7 +89,7 @@ I am a passionate **Full-Stack Developer** and **UI/UX Enthusiast**, currently p
 
 ### 🌍 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mausam-lodhi)  [![Portfolio](https://img.shields.io/badge/Portfolio-ff4d4d?style=for-the-badge&logo=appveyor&logoColor=white)](https://mausam-portfolio.onrender.com)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mausamlodhi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mausam-lodhi)  [![Portfolio](https://img.shields.io/badge/Portfolio-ff4d4d?style=for-the-badge&logo=appveyor&logoColor=white)](https://mausam-portfolio.onrender.com)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mausam-lodhi)  
 
 ---
 
