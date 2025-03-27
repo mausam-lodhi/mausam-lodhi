@@ -93,9 +93,5 @@ I am a passionate **Full-Stack Developer** and **UI/UX Enthusiast**, currently p
 
 ---
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mausam-lodhi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
