@@ -7,10 +7,8 @@ I am a passionate **Full-Stack Developer** and **UI/UX Enthusiast**, currently p
 - 🔭 I’m currently working on **MemesHub & Round-Robin Coupon Distribution**
 - 🌱 I’m learning **Advanced Machine Learning & Cloud Deployment**
 - 💬 Ask me about **MERN Stack, UI/UX Design, REST APIs, and Cloud Services**
-- 📫 How to reach me: **[Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/mausam-lodhi) | [Portfolio](https://mausam-portfolio.onrender.com)**
+- 📫 How to reach me: **[Email](mailto:mausamlodhiofficial@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mausam-lodhi) | [Portfolio](https://mausam-portfolio.onrender.com)**
 - ⚡ Fun fact: I love **memes** and exploring **new tech stacks!**
-
----
 
 ### 🛠 Tech Stack
 
@@ -87,14 +85,6 @@ I am a passionate **Full-Stack Developer** and **UI/UX Enthusiast**, currently p
 
 --- 
 
-
-### 🎖 Certifications  
-- **Google:** Build Dynamic User Interfaces for Websites *(Jan 2024)*  
-- **Microsoft:** UX Design Professional Certificate *(Jan 2024)*  
-- **Microsoft:** Full Stack Developer Professional Certificate *(Jan 2024)*  
-- **Coursera:** Machine Learning with Python *(Mar 2025)*  
-
----
 
 
 ### 🌍 Connect with Me  
